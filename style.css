@@ -1,4 +1,15 @@
-header {
-    background-color: #E7B3BC;
-    color: black;
+*{
+    margin: 0%;
+    padding: 0%;
 }
+
+header {
+background-color: #E7B3BC;
+    color: black;   
+    padding: 24px 0; 
+    display: flex;
+    justify-content: space-around;
+    font-size: 19px;
+}
+
+
